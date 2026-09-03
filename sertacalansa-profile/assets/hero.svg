@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06152d"/><stop offset="0.6" stop-color="#0a2346"/><stop offset="1" stop-color="#0b3761"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#45d6ff"/><stop offset="1" stop-color="#82f0ff"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1015" cy="78" r="125" fill="#1aa7ff" opacity=".10" filter="url(#blur)"/>
+<circle cx="1110" cy="265" r="145" fill="#63efff" opacity=".08" filter="url(#blur)"/>
+<g fill="none" stroke="#4fd8ff" stroke-opacity=".38" stroke-width="2">
+  <path d="M770 70h90v45h72v-35h95v60h95"/><path d="M805 205h60v-42h82v88h78v-45h98"/><path d="M742 285h115v-35h82v44h128"/>
+  <path d="M896 115v48M1027 80v126M947 163v88M1067 140v154"/>
+</g>
+<g fill="#75e9ff">
+  <circle cx="860" cy="70" r="4"/><circle cx="932" cy="115" r="4"/><circle cx="1027" cy="80" r="4"/><circle cx="1122" cy="140" r="4"/>
+  <circle cx="865" cy="205" r="4"/><circle cx="947" cy="163" r="4"/><circle cx="1025" cy="251" r="4"/><circle cx="1123" cy="206" r="4"/>
+  <circle cx="857" cy="285" r="4"/><circle cx="939" cy="250" r="4"/><circle cx="1067" cy="294" r="4"/>
+</g>
+<text x="72" y="132" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="2">SERTAÇ ALAN</text>
+<rect x="72" y="157" width="455" height="3" rx="2" fill="url(#glow)"/>
+<text x="72" y="205" fill="#b9d8ef" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Electrical &amp; Electronics  •  Industrial Automation  •  Software Systems</text>
+<text x="72" y="252" fill="#84a9c6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Engineering practical systems for real-world industrial applications.</text>
+<text x="72" y="307" fill="#59dbff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">sertacalan.com</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125">
+<rect width="1200" height="125" rx="22" fill="#06152d"/>
+<path d="M60 63h180M960 63h180" stroke="#1b5678" stroke-width="1"/>
+<circle cx="250" cy="63" r="3.5" fill="#4edcff"/><circle cx="950" cy="63" r="3.5" fill="#4edcff"/>
+<text x="600" y="55" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">SERTAÇ ALAN</text>
+<text x="600" y="82" text-anchor="middle" fill="#5edfff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">sertacalan.com</text>
+</svg>

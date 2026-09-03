@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07182f"/><stop offset="1" stop-color="#0a2a4a"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="428" rx="24" fill="url(#b)" stroke="#173f60"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="48" y="61" fill="#4edcff" font-size="14" font-weight="700" letter-spacing="1.2">INDUSTRIAL &amp; ELECTRONICS</text>
+<text x="48" y="105" fill="#fff" font-size="24" font-weight="800">PLC  ·  STM32  ·  ESP32  ·  Electrical Schematics</text>
+<text x="48" y="140" fill="#9bb7ce" font-size="17">Industrial Automation  ·  Control Systems  ·  Embedded Electronics</text>
+<rect x="48" y="171" width="1104" height="1" fill="#1a4563"/>
+<text x="48" y="218" fill="#4edcff" font-size="14" font-weight="700" letter-spacing="1.2">SOFTWARE</text>
+<text x="48" y="262" fill="#fff" font-size="24" font-weight="800">.NET  ·  C#  ·  Next.js  ·  React  ·  TypeScript</text>
+<text x="48" y="297" fill="#9bb7ce" font-size="17">Python  ·  C/C++  ·  API Design  ·  Full-Stack Development</text>
+<rect x="48" y="328" width="1104" height="1" fill="#1a4563"/>
+<text x="48" y="374" fill="#4edcff" font-size="14" font-weight="700" letter-spacing="1.2">INFRASTRUCTURE &amp; DATA</text>
+<text x="48" y="407" fill="#fff" font-size="21" font-weight="800">PostgreSQL  ·  SQLite  ·  Docker  ·  Linux  ·  Git</text>
+</g>
+</svg>
