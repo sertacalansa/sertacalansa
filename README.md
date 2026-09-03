@@ -62,7 +62,7 @@ Focused on **electrical & electronics, industrial automation, software developme
 <img src="./assets/card-mes.svg" alt="MES System" width="100%" />
 </td>
 <td width="50%" valign="top">
-<img src="./assets/card-service.svg" alt="Service Engineering Platform" width="100%" />
+<img src="./assets/card-electrical-service.svg" alt="Electrical Diagnostics Platform" width="100%" />
 </td>
 </tr>
 </table>
