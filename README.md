@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Sertaç Alan — Electrical & Electronics, Industrial Automation, Software Systems" width="100%" />
+  <img src="./assets/hero.svg" alt="Sertaç Alan — Electrical & Electronics, Industrial Automation, PLC & Software Systems" width="100%" />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@ Focused on **electrical & electronics, industrial automation, software developme
 <td width="50%" valign="top">
 
 #### What I work on
-- Industrial automation and control
+- Industrial automation and PLC control
 - Engineering-focused software systems
 - MES and workflow platforms
-- Electrical service and schematic tools
+- PLC programming, electrical schematics, and service engineering
 - Embedded systems and electronics
 
 </td>
@@ -62,7 +62,7 @@ Focused on **electrical & electronics, industrial automation, software developme
 <img src="./assets/card-mes.svg" alt="MES System" width="100%" />
 </td>
 <td width="50%" valign="top">
-<img src="./assets/card-service.svg" alt="Crystal Teknik Servis" width="100%" />
+<img src="./assets/card-service.svg" alt="Service Engineering Platform" width="100%" />
 </td>
 </tr>
 </table>

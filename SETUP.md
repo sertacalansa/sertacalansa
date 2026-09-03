@@ -8,8 +8,8 @@
 ## Recommended GitHub profile fields
 
 - **Name:** Sertaç Alan
-- **Bio:** Electrical & Electronics | Industrial Automation | Software Systems
-- **Location:** Antalya, Türkiye
+- **Bio:** Electrical & Electronics | Industrial Automation | PLC & Software Systems
+- **Location:** Antalya, Turkey
 - **Website:** https://sertacalan.com
 - **LinkedIn:** https://www.linkedin.com/in/sertacalan/
 
